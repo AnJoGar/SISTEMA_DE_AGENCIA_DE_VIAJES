@@ -1,0 +1,798 @@
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\bin\Debug\C Presentacion.exe.config
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\bin\Debug\C Presentacion.exe
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\bin\Debug\C Presentacion.pdb
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.AssemblyReference.cache
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.BodegaYProductos.RegistrarProducto.resources
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Home.Login.resources
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Home.PantallaPrincipal.resources
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Odontologo.RegistrarOndontologo.resources
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Paciente.RegistrarPaciente.resources
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Properties.Resources.resources
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Recepcionista.RegistrarRecepcionista.resources
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Servicios.EditarServicio.resources
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Servicios.NuevoServicio.resources
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.GenerateResource.cache
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.CopyComplete
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.exe
+C:\Users\mac\Downloads\DENTAL -AV SMILE\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.pdb
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\bin\Debug\C Presentacion.exe.config
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\bin\Debug\C Presentacion.exe
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\bin\Debug\C Presentacion.pdb
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.AssemblyReference.cache
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.BodegaYProductos.RegistrarProducto.resources
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Home.Login.resources
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Home.PantallaPrincipal.resources
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Odontologo.RegistrarOndontologo.resources
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Paciente.RegistrarPaciente.resources
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Properties.Resources.resources
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Recepcionista.RegistrarRecepcionista.resources
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Servicios.EditarServicio.resources
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Servicios.NuevoServicio.resources
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.GenerateResource.cache
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.CopyComplete
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.exe
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.pdb
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Paciente.ConsultarPaciente.resources
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Servicios.ConsultarServicio.resources
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Odontologo.ConsultarOdontologo.resources
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Paciente.EditarOdontologo.resources
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Recepcionista.ConsultarRecepcionista.resources
+C:\Users\Lina Sanchez\Desktop\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Recepcionista.EditarRecepcionista.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.exe
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.pdb
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\C Presentacion.exe.config
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\C Presentacion.exe
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\C Presentacion.pdb
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\C_Entidad.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\C_Negocio.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\C_Datos.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\C_Entidad.pdb
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\C_Negocio.pdb
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\C_Datos.pdb
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.BodegaYProductos.RegistrarProducto.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Home.Login.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Home.PantallaPrincipal.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Odontologo.RegistrarOndontologo.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Paciente.ConsultarPaciente.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Paciente.EditarOdontologo.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Paciente.RegistrarPaciente.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Properties.Resources.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Recepcionista.ConsultarRecepcionista.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Recepcionista.EditarRecepcionista.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Recepcionista.RegistrarRecepcionista.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Servicios.ConsultarServicio.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Servicios.EditarServicio.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Servicios.NuevoServicio.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.GenerateResource.cache
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.CopyComplete
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\stdole.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.RegistrarCliente.resources
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.EditarCliente.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\C Presentacion.exe.config
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\C Presentacion.exe
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\C Presentacion.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\C_Entidad.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\C_Negocio.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\C_Datos.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\stdole.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\C_Entidad.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\C_Negocio.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\C_Datos.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.EditarCliente.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.RegistrarCliente.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Home.Login.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Home.PantallaPrincipal.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Odontologo.RegistrarOndontologo.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\obj\Debug\C_Presentacion.Properties.Resources.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.GenerateResource.cache
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.csproj.CopyComplete
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.exe
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\DENTAL -AV SMILE\C Presentacion\obj\Debug\C Presentacion.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.exe.config
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.exe
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C_Entidad.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C_Negocio.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C_Datos.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\stdole.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C_Entidad.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C_Negocio.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C_Datos.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.EditarCliente.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.RegistrarCliente.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Home.Login.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Home.PantallaPrincipal.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Properties.Resources.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.GenerateResource.cache
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.CopyComplete
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.exe
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.ConsultarCliente.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.NuevoDestino.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Reservas.RegistrarReserva.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.RegistrarAerolineas.resources
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.RegistrarAviones.resources
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.exe.config
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.exe
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.pdb
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\stdole.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.ConsultarCliente.resources
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.EditarCliente.resources
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.RegistrarCliente.resources
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.NuevoDestino.resources
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Home.Login.resources
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Home.PantallaPrincipal.resources
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.RegistrarAerolineas.resources
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.RegistrarAviones.resources
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Reservas.RegistrarReserva.resources
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Properties.Resources.resources
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.GenerateResource.cache
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.CopyComplete
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.exe
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.pdb
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Entidad.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Entidad.pdb
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.exe.config
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.exe
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.pdb
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Entidad.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\stdole.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Entidad.pdb
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.AssemblyReference.cache
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.ConsultarCliente.resources
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.EditarCliente.resources
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.RegistrarCliente.resources
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.NuevoDestino.resources
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Home.Login.resources
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Home.PantallaPrincipal.resources
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.RegistrarAerolineas.resources
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.RegistrarAviones.resources
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Reservas.RegistrarReserva.resources
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Properties.Resources.resources
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.GenerateResource.cache
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.CopyComplete
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.exe
+C:\Users\Luis\Downloads\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.pdb
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.exe.config
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.exe
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.pdb
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Entidad.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\stdole.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Entidad.pdb
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.AssemblyReference.cache
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.ConsultarCliente.resources
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.EditarCliente.resources
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.RegistrarCliente.resources
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.NuevoDestino.resources
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Home.Login.resources
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Home.PantallaPrincipal.resources
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Reservas.RegistrarReserva.resources
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Properties.Resources.resources
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.GenerateResource.cache
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.CopyComplete
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.exe
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.pdb
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.RegistrarAerolineas.resources
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.exe.config
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.exe
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.pdb
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Entidad.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\stdole.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Entidad.pdb
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.AssemblyReference.cache
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.ConsultarCliente.resources
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.EditarCliente.resources
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.RegistrarCliente.resources
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Home.Login.resources
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Home.PantallaPrincipal.resources
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.NuevoDestino.resources
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.RegistrarAerolineas.resources
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Reservas.RegistrarReserva.resources
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Properties.Resources.resources
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.GenerateResource.cache
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.CopyComplete
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.exe
+C:\Users\Luis\Downloads\Docs\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.pdb
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.exe.config
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.exe
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\C Presentacion.pdb
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Entidad.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\stdole.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Entidad.pdb
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.ConsultarCliente.resources
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Cliente.RegistrarCliente.resources
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Home.Login.resources
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Home.PantallaPrincipal.resources
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.NuevoDestino.resources
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Inventario.RegistrarAerolineas.resources
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.FormulariosProyecto.Reservas.RegistrarReserva.resources
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C_Presentacion.Properties.Resources.resources
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.csproj.CopyComplete
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.exe
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\C Presentacion\obj\Debug\C Presentacion.pdb

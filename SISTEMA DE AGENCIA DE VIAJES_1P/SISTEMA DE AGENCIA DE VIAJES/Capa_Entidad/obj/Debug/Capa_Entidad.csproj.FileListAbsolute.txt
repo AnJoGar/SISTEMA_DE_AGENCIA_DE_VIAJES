@@ -1,0 +1,24 @@
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Entidad\obj\Debug\Capa_Entidad.pdb
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\usuario\3D Objects\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
