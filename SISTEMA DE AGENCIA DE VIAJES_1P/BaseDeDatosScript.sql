@@ -151,3 +151,17 @@ Fechaviaje varchar (50),
 Tipopago varchar(50),
 Destino varchar(100),
 );
+
+
+
+ALTER PROCEDURE sp_buscar_DestinoTuristico
+@codigo varchar(50)
+AS
+(SELECT codigo, origen, destino, precio FROM DestinoTuristico WHERE codigo LIKE @codigo + '%')
+GO
+
+alter proc sp_buscar_DestinoTuristico
+@origen varchar(50)
+as
+(select codigo,origen,destino,precio from DestinoTuristico where origen  like @origen  + '%')
+go

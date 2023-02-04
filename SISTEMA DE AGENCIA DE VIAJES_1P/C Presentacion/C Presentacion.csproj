@@ -105,17 +105,17 @@
     <Compile Include="FormulariosProyecto\Home\PantallaPrincipal.Designer.cs">
       <DependentUpon>PantallaPrincipal.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormulariosProyecto\Inventario\NuevoDestino.cs">
+    <Compile Include="FormulariosProyecto\Inventario\Destino.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormulariosProyecto\Inventario\NuevoDestino.Designer.cs">
-      <DependentUpon>NuevoDestino.cs</DependentUpon>
+    <Compile Include="FormulariosProyecto\Inventario\Destino.Designer.cs">
+      <DependentUpon>Destino.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormulariosProyecto\Inventario\RegistrarAerolineas.cs">
+    <Compile Include="FormulariosProyecto\Inventario\Aerolineas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormulariosProyecto\Inventario\RegistrarAerolineas.Designer.cs">
-      <DependentUpon>RegistrarAerolineas.cs</DependentUpon>
+    <Compile Include="FormulariosProyecto\Inventario\Aerolineas.Designer.cs">
+      <DependentUpon>Aerolineas.cs</DependentUpon>
     </Compile>
     <Compile Include="FormulariosProyecto\Reservas\RegistrarReserva.cs">
       <SubType>Form</SubType>
@@ -143,11 +143,11 @@
     <EmbeddedResource Include="FormulariosProyecto\Home\PantallaPrincipal.resx">
       <DependentUpon>PantallaPrincipal.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormulariosProyecto\Inventario\NuevoDestino.resx">
-      <DependentUpon>NuevoDestino.cs</DependentUpon>
+    <EmbeddedResource Include="FormulariosProyecto\Inventario\Destino.resx">
+      <DependentUpon>Destino.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormulariosProyecto\Inventario\RegistrarAerolineas.resx">
-      <DependentUpon>RegistrarAerolineas.cs</DependentUpon>
+    <EmbeddedResource Include="FormulariosProyecto\Inventario\Aerolineas.resx">
+      <DependentUpon>Aerolineas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormulariosProyecto\Reservas\RegistrarReserva.resx">
       <DependentUpon>RegistrarReserva.cs</DependentUpon>

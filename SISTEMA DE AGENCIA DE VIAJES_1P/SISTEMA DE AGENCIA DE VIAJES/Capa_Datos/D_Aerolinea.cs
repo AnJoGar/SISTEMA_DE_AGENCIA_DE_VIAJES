@@ -10,6 +10,7 @@ using System.Configuration;
 using System.Data;
 using Capa_Entidad;
 using System.Data.SqlClient;
+using Excepciones;
 
 namespace Capa_Datos
 {
@@ -74,6 +75,18 @@ namespace Capa_Datos
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
             da.Fill(dt);
+
+            try
+            {
+                AerolineaNoEncontradaException.AerolineaNoEncontrada(dt);
+
+            }
+            catch (AerolineaNoEncontradaException ex) {
+
+                throw new AerolineaNoEncontradaException("Excepcion Personalizado" + ex.Message);
+
+            }
+           // ExcepcionAerolinea.AerolineaNoEncontradaException(dt);
             return dt;
         }
     }

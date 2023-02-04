@@ -10,6 +10,8 @@ using System.Configuration;
 using System.Data;
 using Capa_Entidad;
 using System.Data.SqlClient;
+using Excepciones;
+
 
 namespace Capa_Datos
 {
@@ -18,7 +20,8 @@ namespace Capa_Datos
     {
         //Instacia de la clase conexión a la base de datos 
         Conexion_Desconexion_bd c = new Conexion_Desconexion_bd();
-      
+        //OrigenNoEncontradoException excepOrigen = new OrigenNoEncontradoException();
+
         // Método para registrar un nuevo destino turístico
         public String D_RegistroDestinosTuristicos(E_Destino_Turisticos obje)
         {
@@ -69,11 +72,21 @@ namespace Capa_Datos
             SqlCommand cmd = new SqlCommand("sp_buscar_DestinoTuristico", c.abrir_conexion());
             cmd.CommandType = CommandType.StoredProcedure;
 
-            cmd.Parameters.AddWithValue("@codigo", obje.codigo);
+            cmd.Parameters.AddWithValue("@destino", obje.destino);
             // Se crea un nuevo objeto SqlDataAdapter para ejecutar el comando y llenar un DataTable con los resultados
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
             da.Fill(dt);
+            try
+            {
+                OrigenNoEncontradoException.OrigenNoEncontrado(dt);
+            }
+            catch (OrigenNoEncontradoException ex) {
+
+                throw new OrigenNoEncontradoException("Excepcion Personalizada" +ex.Message);
+
+            }
+            
             // Devuelve el DataTable con los datos
             return dt;
         }

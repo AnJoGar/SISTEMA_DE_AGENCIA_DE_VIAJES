@@ -314,7 +314,7 @@ namespace C_Presentacion.Home
             this.iconButton1.Name = "iconButton1";
             this.iconButton1.Size = new System.Drawing.Size(234, 53);
             this.iconButton1.TabIndex = 2;
-            this.iconButton1.Text = "Resgistro Aerolineas";
+            this.iconButton1.Text = "Aerolineas";
             this.iconButton1.UseVisualStyleBackColor = false;
             this.iconButton1.Click += new System.EventHandler(this.iconButton1_Click);
             // 
@@ -332,7 +332,7 @@ namespace C_Presentacion.Home
             this.BtnNuevoDesT.Name = "BtnNuevoDesT";
             this.BtnNuevoDesT.Size = new System.Drawing.Size(234, 37);
             this.BtnNuevoDesT.TabIndex = 0;
-            this.BtnNuevoDesT.Text = "Registro Destino Turístico";
+            this.BtnNuevoDesT.Text = "Destino Turístico";
             this.BtnNuevoDesT.UseVisualStyleBackColor = false;
             this.BtnNuevoDesT.Click += new System.EventHandler(this.BtnNuevoDesT_Click);
             // 

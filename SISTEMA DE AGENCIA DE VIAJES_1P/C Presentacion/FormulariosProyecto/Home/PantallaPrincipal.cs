@@ -216,7 +216,7 @@ namespace C_Presentacion.Home
 
         private void BtnNuevoDesT_Click(object sender, EventArgs e)
         {
-            abrirhijoform(new NuevoDestino());
+            abrirhijoform(new Destino());
         }
 
         private void BtnNuevRes_Click(object sender, EventArgs e)
@@ -226,7 +226,7 @@ namespace C_Presentacion.Home
 
         private void iconButton1_Click(object sender, EventArgs e)
         {
-            abrirhijoform(new RegistrarAerolineas());
+            abrirhijoform(new Aerolineas());
         }
 
         private void label2_Click(object sender, EventArgs e)

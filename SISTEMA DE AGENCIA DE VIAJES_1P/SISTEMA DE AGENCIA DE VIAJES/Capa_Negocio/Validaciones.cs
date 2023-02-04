@@ -101,12 +101,12 @@ namespace Capa_Negocio
             return true;
         }
 
-        public bool SoloLetras(string input, Action<string> ShowErrorMessage)
+        public bool SoloLetras(string input, string fieldName, Action<string> ShowErrorMessage)
         {
             //Usa una expresión regular para verificar si la cadena contiene solo letras
             if (!Regex.IsMatch(input, @"^[a-zA-Z]+$"))
             {
-                ShowErrorMessage("La entrada debe contener solo letras.");
+                ShowErrorMessage(fieldName + " debe contener solo letras.");
                 return false;
             }
             return true;
