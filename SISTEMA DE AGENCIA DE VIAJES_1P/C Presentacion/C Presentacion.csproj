@@ -80,12 +80,6 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FormulariosProyecto\Cliente\ConsultarCliente.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormulariosProyecto\Cliente\ConsultarCliente.Designer.cs">
-      <DependentUpon>ConsultarCliente.cs</DependentUpon>
-    </Compile>
     <Compile Include="FormulariosProyecto\Cliente\RegistrarCliente.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -131,9 +125,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Compile Include="SqlServerTypes\Loader.cs" />
-    <EmbeddedResource Include="FormulariosProyecto\Cliente\ConsultarCliente.resx">
-      <DependentUpon>ConsultarCliente.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FormulariosProyecto\Cliente\RegistrarCliente.resx">
       <DependentUpon>RegistrarCliente.cs</DependentUpon>
     </EmbeddedResource>

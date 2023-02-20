@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Excepciones;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
@@ -90,28 +91,6 @@ namespace Capa_Datos
             return dt;
         }
 
-        //Método para enviar la solicitud de las consultas con los parámetros establecidos (apellido obligatorio y nombre opcional)
-        public DataTable consultarApellidoyNombre(String apellido, String nombre)
-        {
-            dt = new DataTable();
-            try
-            {
-                cmd = new SqlCommand("Select * from Cliente where apellido = @apellido " + " and nombre like @nombre", c.abrir_conexion());
-                cmd.Parameters.AddWithValue("apellido", apellido);
-                cmd.Parameters.AddWithValue("nombre", nombre);
-                SqlDataAdapter con = new SqlDataAdapter(cmd);
-                con.Fill(dt);
-                c.cerrar_conexion();
-
-            }
-            ////Se atrapan las excepciones y se cierra la conexión
-            catch (Exception ex)
-            {
-                String msj = "Error de registro por:" + ex;
-            }
-            return dt;
-        }
-
         //Método para enviar la solicitud de modificación hacia la base de datos
         //Dichos datos fueron ingresados en la capa de presentación, sin embargo, se enviaron hacia la capa lógica de negocios para poder llamarlos en la presente capa (acceso de datos)
         public String modificar_cliente(List<Parametros_Cliente> lst)
@@ -146,9 +125,8 @@ namespace Capa_Datos
         }
         //Se creará una lista de objetos la cual devuelva los valores de cada campo desde la base de datos
         public List<Object> busquedaCliente()
-        {
-            try
-            {   //Se define una lista de objetos y las sentencias necesarias para devolver los valores desde la base de datos
+        {      
+                //Se define una lista de objetos y las sentencias necesarias para devolver los valores desde la base de datos
                 List<Object> lstCliente = new List<Object>();
                 cmd = new SqlCommand("Select codigo, apellido, nombre, cedula, numero_telefono, correo_electronico, direccion " + "from Cliente;", c.abrir_conexion());
                 SqlDataReader registros = cmd.ExecuteReader();
@@ -169,14 +147,19 @@ namespace Capa_Datos
                 }
                 //Se cierra la conexión y se devuelve la lista de clientes
                 c.cerrar_conexion();
+
+                try
+                {
+                    ClienteNoEncontradoExcepcion.ClienteNoEncontrado(lstCliente);
+                }
+                catch (ClienteNoEncontradoExcepcion ex)
+                {
+
+                    throw new ClienteNoEncontradoExcepcion("Excepcion Personalizada" + ex.Message);
+
+                }
+
                 return lstCliente;
-            }
-            //Se atrapan las excepciones y se cierra la conexión
-            catch (Exception ex)
-            {
-                c.cerrar_conexion();
-                throw ex;
-            }
         }
     }
 }

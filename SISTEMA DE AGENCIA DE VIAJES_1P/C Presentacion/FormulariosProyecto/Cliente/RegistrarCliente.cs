@@ -212,24 +212,24 @@ namespace C_Presentacion.FormulariosProyecto.Cliente
         //Evento necesario para establecer la consulta
         private void BtnConsul_Click(object sender, EventArgs e)
         {
-            //Se establece que mientras el código no sea vacio se cumpla la condición
-            if (!txtCodigoBusqueda.Text.Equals(""))
+            //Se establece que mientras el apellido no sea vacio se cumpla la condición
+            if (!txtApellidoBusqueda.Text.Equals(""))
             {
-                //se creará una variable de tipo string llamada codigo y se le pasará el valor del codigo escrito por el usuario
-                //posterioirmante, se llamará al método de "Buscar_cliente" y se le pasará dicho código como parámetro
-                string codigo = txtCodigoBusqueda.Text.Trim();
-                Buscar_Cliente(codigo);
+                //se creará una variable de tipo string llamada apellido y se le pasará el valor del apellido escrito por el usuario
+                //posterioirmante, se llamará al método de "Buscar_cliente" y se le pasará dicho apellido como parámetro
+                string apellido = txtApellidoBusqueda.Text.Trim();
+                Buscar_Cliente(apellido);
                 cargar_Datos();
             }
             else
             {
-                //Se devuleve mensaje en caso de que no se haya ingresado un código
-                MessageBox.Show("Error, no se ha ingresado un código");
+                //Se devuleve mensaje en caso de que no se haya ingresado un apellido
+                MessageBox.Show("Error, no se ha ingresado un apellido");
             }
         }
 
-        //Método necesario para buscar al cliente por el parámetro de código
-        public void Buscar_Cliente(string codigo)
+        //Método necesario para buscar al cliente por el parámetro de apellido
+        public void Buscar_Cliente(string apellido)
         {
             //Se recorre la lista de objetos y se trabaja con los tipos de datos anonymus
             //Se establece que la variable local abstraerá los datos de la lista de clientes
@@ -238,13 +238,13 @@ namespace C_Presentacion.FormulariosProyecto.Cliente
                 //Se obtiene el valor de cliente
                 System.Type type = cliente.GetType();
 
-                //Se obtiene el valor del código y se define una sentencia en la que se igualará con el parámetro de código
+                //Se obtiene el valor del apellido y se define una sentencia en la que se igualará con el parámetro de apellido
                 //(parámetro que será llenado por el usuario en el evento anterior)
-                string Codigo = (string)type.GetProperty("codigo").GetValue(cliente);
-                if (codigo.Equals(Codigo))
+                string Apellido = (string)type.GetProperty("apellido").GetValue(cliente);
+                if (apellido.Equals(Apellido))
                 {
                     //Se guarda cada valor de la lista de objetos en variables locales
-                    String apellidos = (String)type.GetProperty("apellido").GetValue(cliente);
+                    String codigo = (String)type.GetProperty("codigo").GetValue(cliente);
                     String nombres = (String)type.GetProperty("nombre").GetValue(cliente);
                     String cedula = (String)type.GetProperty("cedula").GetValue(cliente);
                     string numero_telefono = (string)type.GetProperty("numero_telefono").GetValue(cliente);
@@ -252,8 +252,8 @@ namespace C_Presentacion.FormulariosProyecto.Cliente
                     String direccion = (String)type.GetProperty("direccion").GetValue(cliente);
 
                     //Se llenan los textbox con los valores almacenados en cada variable
-                    txtCodigo.Text = Codigo.ToString();
-                    txtApellido.Text = apellidos;
+                    txtCodigo.Text = codigo.ToString();
+                    txtApellido.Text = apellido;
                     txtNombre.Text = nombres;
                     txtCedula.Text = cedula;
                     txtTelefono.Text = numero_telefono.ToString();

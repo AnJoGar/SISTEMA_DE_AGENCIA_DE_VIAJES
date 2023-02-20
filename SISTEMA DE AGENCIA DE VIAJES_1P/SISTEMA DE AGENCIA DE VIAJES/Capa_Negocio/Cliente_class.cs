@@ -72,11 +72,6 @@ namespace Capa_Negocio
             return m.cargarDatos(tabla);
         }
 
-        //Método necesario para manipular los datos de consulta entre las capas de presentación y acceso de datos (con la finalidad de mostrar los datos en el datagridview)
-        public DataTable consultarApellidoyNombre(string apellido, string nombre)
-        {
-            return m.consultarApellidoyNombre(apellido, nombre);
-        }
 
         //Método para enviar los datos de modificación hacia la capa de acceso de datos(dichos datos fueron modificados por el usuario en la capa de presentación)
         public string Modificar(int codigo, string apellido, string nombre, string cedula, int numero_telefono, string correo_electronico, string direccion)

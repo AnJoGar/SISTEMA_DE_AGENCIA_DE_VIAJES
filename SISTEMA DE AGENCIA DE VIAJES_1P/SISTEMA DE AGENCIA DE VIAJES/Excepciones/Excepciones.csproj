@@ -42,7 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AerolineaNoEncontradaException.cs" />
+    <Compile Include="ApellidoNoEncontradoExcepcion.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="ClienteDuplicadoExcepcion.cs" />
+    <Compile Include="ClienteNoEncontradoExcepcion.cs" />
     <Compile Include="OrigenNoEncontradoException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegistroDuplicadoException.cs" />

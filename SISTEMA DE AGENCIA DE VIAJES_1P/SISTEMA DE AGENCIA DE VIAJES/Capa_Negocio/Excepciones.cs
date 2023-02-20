@@ -10,8 +10,5 @@ namespace Capa_Negocio
     public class Excepciones : Exception
     {
 
-
-     
-
     }
 }
