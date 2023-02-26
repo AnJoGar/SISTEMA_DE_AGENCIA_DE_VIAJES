@@ -79,3 +79,16 @@ C:\Users\Luis\Downloads\Proyectos sexto semestre (apartir de finales del primer 
 C:\Users\Luis\Downloads\Proyectos sexto semestre (apartir de finales del primer parcial (no todos))\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
 C:\Users\Luis\Downloads\Proyectos sexto semestre (apartir de finales del primer parcial (no todos))\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\obj\Debug\Capa_Negocio.dll
 C:\Users\Luis\Downloads\Proyectos sexto semestre (apartir de finales del primer parcial (no todos))\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\bin\Debug\Excepciones.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\bin\Debug\Excepciones.pdb
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

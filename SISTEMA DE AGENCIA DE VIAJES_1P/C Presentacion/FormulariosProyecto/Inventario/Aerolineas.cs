@@ -179,6 +179,16 @@ namespace C_Presentacion.FormulariosProyecto.Inventario
                 dgvAerolineas.Rows[e.RowIndex].DefaultCellStyle.ForeColor = Color.White;
             }
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtBuscarAeroli_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
     
 }

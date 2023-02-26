@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             this.btnActualizarAerolinea = new System.Windows.Forms.Button();
             this.btnAgregarAerolinea = new System.Windows.Forms.Button();
             this.btnMostrarAeolinea = new System.Windows.Forms.Button();
@@ -60,7 +60,7 @@
             this.btnActualizarAerolinea.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(255)))), ((int)(((byte)(42)))));
             this.btnActualizarAerolinea.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnActualizarAerolinea.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold);
-            this.btnActualizarAerolinea.Location = new System.Drawing.Point(513, 247);
+            this.btnActualizarAerolinea.Location = new System.Drawing.Point(502, 247);
             this.btnActualizarAerolinea.Margin = new System.Windows.Forms.Padding(2);
             this.btnActualizarAerolinea.Name = "btnActualizarAerolinea";
             this.btnActualizarAerolinea.Size = new System.Drawing.Size(94, 27);
@@ -77,7 +77,7 @@
             this.btnAgregarAerolinea.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnAgregarAerolinea.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold);
             this.btnAgregarAerolinea.ForeColor = System.Drawing.Color.Black;
-            this.btnAgregarAerolinea.Location = new System.Drawing.Point(273, 123);
+            this.btnAgregarAerolinea.Location = new System.Drawing.Point(36, 248);
             this.btnAgregarAerolinea.Margin = new System.Windows.Forms.Padding(2);
             this.btnAgregarAerolinea.Name = "btnAgregarAerolinea";
             this.btnAgregarAerolinea.Size = new System.Drawing.Size(101, 30);
@@ -93,12 +93,12 @@
             this.btnMostrarAeolinea.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(255)))), ((int)(((byte)(42)))));
             this.btnMostrarAeolinea.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnMostrarAeolinea.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold);
-            this.btnMostrarAeolinea.Location = new System.Drawing.Point(367, 246);
+            this.btnMostrarAeolinea.Location = new System.Drawing.Point(411, 246);
             this.btnMostrarAeolinea.Margin = new System.Windows.Forms.Padding(2);
             this.btnMostrarAeolinea.Name = "btnMostrarAeolinea";
-            this.btnMostrarAeolinea.Size = new System.Drawing.Size(142, 29);
+            this.btnMostrarAeolinea.Size = new System.Drawing.Size(86, 29);
             this.btnMostrarAeolinea.TabIndex = 106;
-            this.btnMostrarAeolinea.Text = "Buscar Areolíneas";
+            this.btnMostrarAeolinea.Text = "Buscar ";
             this.btnMostrarAeolinea.UseVisualStyleBackColor = false;
             this.btnMostrarAeolinea.Click += new System.EventHandler(this.btnMostrarAeolinea_Click);
             // 
@@ -180,23 +180,25 @@
             // 
             // txtBuscarAeroli
             // 
-            this.txtBuscarAeroli.Location = new System.Drawing.Point(182, 248);
+            this.txtBuscarAeroli.Location = new System.Drawing.Point(301, 248);
             this.txtBuscarAeroli.Margin = new System.Windows.Forms.Padding(2);
             this.txtBuscarAeroli.Multiline = true;
             this.txtBuscarAeroli.Name = "txtBuscarAeroli";
-            this.txtBuscarAeroli.Size = new System.Drawing.Size(181, 25);
+            this.txtBuscarAeroli.Size = new System.Drawing.Size(107, 25);
             this.txtBuscarAeroli.TabIndex = 110;
+            this.txtBuscarAeroli.TextChanged += new System.EventHandler(this.txtBuscarAeroli_TextChanged);
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(22, 251);
+            this.label4.Location = new System.Drawing.Point(141, 251);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(156, 19);
             this.label4.TabIndex = 111;
             this.label4.Text = "Nombre de Aerolínea";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // lblRegistrar
             // 
@@ -234,36 +236,36 @@
             // 
             // dgvAerolineas
             // 
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvAerolineas.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvAerolineas.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle4;
             this.dgvAerolineas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvAerolineas.Cursor = System.Windows.Forms.Cursors.Hand;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvAerolineas.DefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvAerolineas.DefaultCellStyle = dataGridViewCellStyle5;
             this.dgvAerolineas.GridColor = System.Drawing.Color.Black;
             this.dgvAerolineas.Location = new System.Drawing.Point(145, 297);
             this.dgvAerolineas.Margin = new System.Windows.Forms.Padding(2);
             this.dgvAerolineas.Name = "dgvAerolineas";
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvAerolineas.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvAerolineas.RowHeadersDefaultCellStyle = dataGridViewCellStyle6;
             this.dgvAerolineas.RowHeadersWidth = 62;
             this.dgvAerolineas.RowTemplate.Height = 28;
             this.dgvAerolineas.ShowCellToolTips = false;
@@ -274,7 +276,7 @@
             this.dgvAerolineas.CellMouseLeave += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvAerolineas_CellMouseLeave);
             this.dgvAerolineas.CellMouseMove += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dgvAerolineas_CellMouseMove);
             // 
-            // RegistrarAerolineas
+            // Aerolineas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -295,7 +297,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtNombreAerolinea);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "RegistrarAerolineas";
+            this.Name = "Aerolineas";
             this.Text = "RegistrarAerolineas";
             this.Load += new System.EventHandler(this.RegistrarAerolineas_Load);
             this.cmnuSeleccionarAerolinea.ResumeLayout(false);

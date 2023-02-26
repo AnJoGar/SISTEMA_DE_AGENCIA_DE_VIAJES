@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             this.txtCodigoDestino = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -122,7 +122,7 @@
             this.txtDestino.Margin = new System.Windows.Forms.Padding(2);
             this.txtDestino.Multiline = true;
             this.txtDestino.Name = "txtDestino";
-            this.txtDestino.Size = new System.Drawing.Size(181, 25);
+            this.txtDestino.Size = new System.Drawing.Size(155, 25);
             this.txtDestino.TabIndex = 93;
             // 
             // label1
@@ -154,10 +154,10 @@
             this.btnActualizarDestino.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(255)))), ((int)(((byte)(42)))));
             this.btnActualizarDestino.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnActualizarDestino.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold);
-            this.btnActualizarDestino.Location = new System.Drawing.Point(403, 244);
+            this.btnActualizarDestino.Location = new System.Drawing.Point(458, 242);
             this.btnActualizarDestino.Margin = new System.Windows.Forms.Padding(2);
             this.btnActualizarDestino.Name = "btnActualizarDestino";
-            this.btnActualizarDestino.Size = new System.Drawing.Size(104, 27);
+            this.btnActualizarDestino.Size = new System.Drawing.Size(87, 32);
             this.btnActualizarDestino.TabIndex = 97;
             this.btnActualizarDestino.Text = "Actualizar";
             this.btnActualizarDestino.UseVisualStyleBackColor = false;
@@ -171,7 +171,7 @@
             this.btnAgregarDestinos.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnAgregarDestinos.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold);
             this.btnAgregarDestinos.ForeColor = System.Drawing.Color.Black;
-            this.btnAgregarDestinos.Location = new System.Drawing.Point(487, 132);
+            this.btnAgregarDestinos.Location = new System.Drawing.Point(44, 241);
             this.btnAgregarDestinos.Margin = new System.Windows.Forms.Padding(2);
             this.btnAgregarDestinos.Name = "btnAgregarDestinos";
             this.btnAgregarDestinos.Size = new System.Drawing.Size(76, 35);
@@ -187,10 +187,10 @@
             this.btnMostrarDestinos.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(255)))), ((int)(((byte)(42)))));
             this.btnMostrarDestinos.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnMostrarDestinos.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold);
-            this.btnMostrarDestinos.Location = new System.Drawing.Point(270, 244);
+            this.btnMostrarDestinos.Location = new System.Drawing.Point(335, 242);
             this.btnMostrarDestinos.Margin = new System.Windows.Forms.Padding(2);
             this.btnMostrarDestinos.Name = "btnMostrarDestinos";
-            this.btnMostrarDestinos.Size = new System.Drawing.Size(129, 27);
+            this.btnMostrarDestinos.Size = new System.Drawing.Size(119, 32);
             this.btnMostrarDestinos.TabIndex = 95;
             this.btnMostrarDestinos.Text = "Buscar Destino";
             this.btnMostrarDestinos.UseVisualStyleBackColor = false;
@@ -198,23 +198,25 @@
             // 
             // txtBuscarDestino
             // 
-            this.txtBuscarDestino.Location = new System.Drawing.Point(107, 246);
+            this.txtBuscarDestino.Location = new System.Drawing.Point(192, 247);
             this.txtBuscarDestino.Margin = new System.Windows.Forms.Padding(2);
             this.txtBuscarDestino.Multiline = true;
             this.txtBuscarDestino.Name = "txtBuscarDestino";
             this.txtBuscarDestino.Size = new System.Drawing.Size(139, 25);
             this.txtBuscarDestino.TabIndex = 99;
+            this.txtBuscarDestino.TextChanged += new System.EventHandler(this.txtBuscarDestino_TextChanged);
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(40, 249);
+            this.label4.Location = new System.Drawing.Point(125, 250);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(64, 19);
             this.label4.TabIndex = 100;
             this.label4.Text = "Destino:";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // lblRegistrar
             // 
@@ -239,36 +241,36 @@
             // dgvDestino
             // 
             this.dgvDestino.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvDestino.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvDestino.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle4;
             this.dgvDestino.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvDestino.Cursor = System.Windows.Forms.Cursors.Hand;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvDestino.DefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvDestino.DefaultCellStyle = dataGridViewCellStyle5;
             this.dgvDestino.GridColor = System.Drawing.Color.Black;
             this.dgvDestino.Location = new System.Drawing.Point(44, 295);
             this.dgvDestino.Margin = new System.Windows.Forms.Padding(2);
             this.dgvDestino.Name = "dgvDestino";
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvDestino.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvDestino.RowHeadersDefaultCellStyle = dataGridViewCellStyle6;
             this.dgvDestino.RowHeadersWidth = 62;
             this.dgvDestino.RowTemplate.Height = 28;
             this.dgvDestino.ShowCellToolTips = false;

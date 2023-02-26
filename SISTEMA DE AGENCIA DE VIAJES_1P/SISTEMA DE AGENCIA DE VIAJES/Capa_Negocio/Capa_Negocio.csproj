@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cliente_class.cs" />
-    <Compile Include="Excepciones.cs" />
+    <Compile Include="CNReservas.cs" />
     <Compile Include="N_Aerolinea.cs" />
     <Compile Include="N_Destinos_Turisticos .cs" />
     <Compile Include="N_users.cs" />

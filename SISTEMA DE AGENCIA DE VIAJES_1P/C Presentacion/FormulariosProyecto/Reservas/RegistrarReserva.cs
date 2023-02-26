@@ -21,5 +21,10 @@ namespace C_Presentacion.FormulariosProyecto.Reservas
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

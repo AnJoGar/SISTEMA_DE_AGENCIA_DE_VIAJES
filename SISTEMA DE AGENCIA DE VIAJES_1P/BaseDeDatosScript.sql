@@ -143,7 +143,8 @@ go
 
 create table Reservas
 (
-NombreApellido varchar (100),
+Nombre varchar (50),
+Apellido varchar (50),
 Cedula varchar (10),
 Celular varchar (10),
 Numeropasajeros int,
@@ -161,7 +162,7 @@ AS
 GO
 
 alter proc sp_buscar_DestinoTuristico
-@origen varchar(50)
+@destino varchar(50)
 as
-(select codigo,origen,destino,precio from DestinoTuristico where origen  like @origen  + '%')
+(select codigo,origen,destino,precio from DestinoTuristico where destino  like @destino  + '%')
 go

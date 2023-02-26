@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClaseReservas.cs" />
     <Compile Include="Conexion_Desconexion_bd.cs" />
     <Compile Include="D_Aerolinea.cs" />
     <Compile Include="D_Destinos_Turisticos.cs" />

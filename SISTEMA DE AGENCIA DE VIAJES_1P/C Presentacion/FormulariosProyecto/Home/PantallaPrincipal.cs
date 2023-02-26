@@ -221,7 +221,7 @@ namespace C_Presentacion.Home
 
         private void BtnNuevRes_Click(object sender, EventArgs e)
         {
-            abrirhijoform(new RegistrarReserva());
+            abrirhijoform(new Reservas());
         }
 
         private void iconButton1_Click(object sender, EventArgs e)

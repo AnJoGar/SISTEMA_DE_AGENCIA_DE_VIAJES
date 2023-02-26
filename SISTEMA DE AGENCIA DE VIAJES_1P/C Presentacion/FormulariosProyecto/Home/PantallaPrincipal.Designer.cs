@@ -40,8 +40,6 @@ namespace C_Presentacion.Home
             this.PanelInfo = new System.Windows.Forms.Panel();
             this.iconPictureBox1 = new FontAwesome.Sharp.IconPictureBox();
             this.OpcReservas = new System.Windows.Forms.Panel();
-            this.Factura = new FontAwesome.Sharp.IconButton();
-            this.BtnEdiReserva = new FontAwesome.Sharp.IconButton();
             this.BtnNuevRes = new FontAwesome.Sharp.IconButton();
             this.OpcClientes = new System.Windows.Forms.Panel();
             this.btnNuevoCli = new FontAwesome.Sharp.IconButton();
@@ -196,49 +194,12 @@ namespace C_Presentacion.Home
             // 
             this.OpcReservas.AutoSize = true;
             this.OpcReservas.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(36)))), ((int)(((byte)(71)))));
-            this.OpcReservas.Controls.Add(this.Factura);
-            this.OpcReservas.Controls.Add(this.BtnEdiReserva);
             this.OpcReservas.Controls.Add(this.BtnNuevRes);
             this.OpcReservas.Dock = System.Windows.Forms.DockStyle.Top;
             this.OpcReservas.Location = new System.Drawing.Point(0, 144);
             this.OpcReservas.Name = "OpcReservas";
-            this.OpcReservas.Size = new System.Drawing.Size(234, 111);
+            this.OpcReservas.Size = new System.Drawing.Size(234, 37);
             this.OpcReservas.TabIndex = 2;
-            // 
-            // Factura
-            // 
-            this.Factura.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.Factura.Dock = System.Windows.Forms.DockStyle.Top;
-            this.Factura.FlatAppearance.BorderSize = 0;
-            this.Factura.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Factura.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Factura.IconChar = FontAwesome.Sharp.IconChar.None;
-            this.Factura.IconColor = System.Drawing.Color.Black;
-            this.Factura.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.Factura.Location = new System.Drawing.Point(0, 74);
-            this.Factura.Name = "Factura";
-            this.Factura.Size = new System.Drawing.Size(234, 37);
-            this.Factura.TabIndex = 2;
-            this.Factura.Text = "Eliminar Reserva";
-            this.Factura.UseVisualStyleBackColor = false;
-            this.Factura.Click += new System.EventHandler(this.Factura_Click);
-            // 
-            // BtnEdiReserva
-            // 
-            this.BtnEdiReserva.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.BtnEdiReserva.Dock = System.Windows.Forms.DockStyle.Top;
-            this.BtnEdiReserva.FlatAppearance.BorderSize = 0;
-            this.BtnEdiReserva.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnEdiReserva.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnEdiReserva.IconChar = FontAwesome.Sharp.IconChar.None;
-            this.BtnEdiReserva.IconColor = System.Drawing.Color.Black;
-            this.BtnEdiReserva.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.BtnEdiReserva.Location = new System.Drawing.Point(0, 37);
-            this.BtnEdiReserva.Name = "BtnEdiReserva";
-            this.BtnEdiReserva.Size = new System.Drawing.Size(234, 37);
-            this.BtnEdiReserva.TabIndex = 1;
-            this.BtnEdiReserva.Text = "Editar Reserva";
-            this.BtnEdiReserva.UseVisualStyleBackColor = false;
             // 
             // BtnNuevRes
             // 
@@ -254,7 +215,7 @@ namespace C_Presentacion.Home
             this.BtnNuevRes.Name = "BtnNuevRes";
             this.BtnNuevRes.Size = new System.Drawing.Size(234, 37);
             this.BtnNuevRes.TabIndex = 0;
-            this.BtnNuevRes.Text = "Nueva Reserva";
+            this.BtnNuevRes.Text = " Reserva";
             this.BtnNuevRes.UseVisualStyleBackColor = false;
             this.BtnNuevRes.Click += new System.EventHandler(this.BtnNuevRes_Click);
             // 
@@ -264,7 +225,7 @@ namespace C_Presentacion.Home
             this.OpcClientes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(36)))), ((int)(((byte)(71)))));
             this.OpcClientes.Controls.Add(this.btnNuevoCli);
             this.OpcClientes.Dock = System.Windows.Forms.DockStyle.Top;
-            this.OpcClientes.Location = new System.Drawing.Point(0, 308);
+            this.OpcClientes.Location = new System.Drawing.Point(0, 234);
             this.OpcClientes.Name = "OpcClientes";
             this.OpcClientes.Size = new System.Drawing.Size(234, 37);
             this.OpcClientes.TabIndex = 4;
@@ -284,7 +245,7 @@ namespace C_Presentacion.Home
             this.btnNuevoCli.Name = "btnNuevoCli";
             this.btnNuevoCli.Size = new System.Drawing.Size(234, 37);
             this.btnNuevoCli.TabIndex = 5;
-            this.btnNuevoCli.Text = "Nuevo Cliente";
+            this.btnNuevoCli.Text = "Cliente";
             this.btnNuevoCli.UseVisualStyleBackColor = false;
             this.btnNuevoCli.Click += new System.EventHandler(this.btnNuevoCli_Click);
             // 
@@ -295,7 +256,7 @@ namespace C_Presentacion.Home
             this.OpcInventario.Controls.Add(this.iconButton1);
             this.OpcInventario.Controls.Add(this.BtnNuevoDesT);
             this.OpcInventario.Dock = System.Windows.Forms.DockStyle.Top;
-            this.OpcInventario.Location = new System.Drawing.Point(0, 386);
+            this.OpcInventario.Location = new System.Drawing.Point(0, 312);
             this.OpcInventario.Name = "OpcInventario";
             this.OpcInventario.Size = new System.Drawing.Size(234, 90);
             this.OpcInventario.TabIndex = 6;
@@ -360,7 +321,7 @@ namespace C_Presentacion.Home
             this.PanelCerrar.BackColor = System.Drawing.Color.OrangeRed;
             this.PanelCerrar.Controls.Add(this.BtnSalir);
             this.PanelCerrar.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.PanelCerrar.Location = new System.Drawing.Point(0, 476);
+            this.PanelCerrar.Location = new System.Drawing.Point(0, 402);
             this.PanelCerrar.Name = "PanelCerrar";
             this.PanelCerrar.Size = new System.Drawing.Size(234, 234);
             this.PanelCerrar.TabIndex = 1;
@@ -399,7 +360,7 @@ namespace C_Presentacion.Home
             this.BtnInventario.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.BtnInventario.IconSize = 35;
             this.BtnInventario.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.BtnInventario.Location = new System.Drawing.Point(0, 345);
+            this.BtnInventario.Location = new System.Drawing.Point(0, 271);
             this.BtnInventario.Name = "BtnInventario";
             this.BtnInventario.Padding = new System.Windows.Forms.Padding(28, 0, 0, 0);
             this.BtnInventario.Size = new System.Drawing.Size(234, 41);
@@ -420,7 +381,7 @@ namespace C_Presentacion.Home
             this.BtnClientes.IconColor = System.Drawing.Color.White;
             this.BtnClientes.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.BtnClientes.IconSize = 35;
-            this.BtnClientes.Location = new System.Drawing.Point(0, 255);
+            this.BtnClientes.Location = new System.Drawing.Point(0, 181);
             this.BtnClientes.Name = "BtnClientes";
             this.BtnClientes.Size = new System.Drawing.Size(234, 53);
             this.BtnClientes.TabIndex = 3;
@@ -503,15 +464,12 @@ namespace C_Presentacion.Home
         private System.Windows.Forms.Panel OpcInventario;
         private FontAwesome.Sharp.IconButton BtnNuevoDesT;
         private System.Windows.Forms.Panel panelOpciones;
-        
-        private FontAwesome.Sharp.IconButton BtnEdiReserva;
         private System.Windows.Forms.Panel PanelCerrar;
         private FontAwesome.Sharp.IconButton BtnSalir;
         private FontAwesome.Sharp.IconButton BtnClientes;
         private System.Windows.Forms.PictureBox BtnNorm;
         private FontAwesome.Sharp.IconButton iconButton1;
         private System.Windows.Forms.PictureBox pictureBox4;
-        private FontAwesome.Sharp.IconButton Factura;
         private FontAwesome.Sharp.IconButton btnNuevoCliente;
         private FontAwesome.Sharp.IconButton btnNuevoCli;
     }
