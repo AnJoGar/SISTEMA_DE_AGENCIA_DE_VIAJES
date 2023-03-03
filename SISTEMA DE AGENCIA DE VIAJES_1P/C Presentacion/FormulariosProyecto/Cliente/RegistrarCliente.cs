@@ -147,15 +147,7 @@ namespace C_Presentacion.FormulariosProyecto.Cliente
             {
                 return;
             }
-            if (!v.IsOnlyLettersAndNotEmpty(txtCedula.Text, ShowErrorMessage) || !v.IsOnlyNumbersAndNotEmpty(txtTelefono.Text, ShowErrorMessage))
-            {
-                return;
-            }
 
-            if (!v.NotEmpty(txtCorreo.Text, ShowErrorMessage) || !v.NotEmpty(txtDireccion.Text, ShowErrorMessage))
-            {
-                return;
-            }
 
             String msj = "";
             try

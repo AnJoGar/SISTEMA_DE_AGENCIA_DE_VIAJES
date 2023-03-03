@@ -96,8 +96,7 @@ namespace Capa_Datos
         public String modificar_cliente(List<Parametros_Cliente> lst)
         {
             string msj = "";
-            try
-            {
+            
                 //Se crea el if dentro del Try para denotar posibles errores
                 if (lst != null)
                 {   //Se establece que la sentencia de Update se envie si la lista es diferente de null, es decir, no está vacia.
@@ -115,12 +114,7 @@ namespace Capa_Datos
                     c.cerrar_conexion();
                     msj = "Modificación exitosa :)";
                 }
-            }
-            ////Se atrapan las excepciones y se cierra la conexión
-            catch (Exception ex)
-            {
-                msj = "Error de modificación por:" + ex;
-            }
+            
             return msj;
         }
         //Se creará una lista de objetos la cual devuelva los valores de cada campo desde la base de datos

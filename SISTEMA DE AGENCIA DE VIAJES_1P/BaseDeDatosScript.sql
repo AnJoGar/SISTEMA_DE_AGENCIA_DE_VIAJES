@@ -76,6 +76,7 @@ create table Aerolineas
 codigo varchar(5),
 nombre varchar(50),
 siglas varchar(10),
+capacidad varchar (10)
 );
 go
 
@@ -165,4 +166,14 @@ alter proc sp_buscar_DestinoTuristico
 @destino varchar(50)
 as
 (select codigo,origen,destino,precio from DestinoTuristico where destino  like @destino  + '%')
+go
+
+--corregida el alter
+alter proc sp_buscar_DestinoTuristico
+@destino varchar(50),
+@origen varchar (50),
+@tipoBusqueda VARCHAR(50)
+as
+(select codigo,origen,destino,precio from DestinoTuristico where( @tipoBusqueda = 'Destino' AND destino  like @destino  + '%')
+																	OR (@tipoBusqueda = 'Origen' AND origen  like @origen  + '%'))
 go
