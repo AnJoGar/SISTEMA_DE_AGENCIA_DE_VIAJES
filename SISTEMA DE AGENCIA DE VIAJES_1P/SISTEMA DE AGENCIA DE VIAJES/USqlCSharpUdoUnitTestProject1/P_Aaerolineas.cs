@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Analytics.Interfaces;
@@ -22,10 +19,10 @@ using System.Data;
 namespace USqlCSharpUdoUnitTestProject1
 {
     [TestClass]
-    public class P_Aerolinea
+    public class P_Aaerolineas
     {
         [TestMethod]
-        public void TestRegistroDestinosTuristicos()
+        public void TestP_Aaerolineas()
         {
 
             // Crea un nuevo objeto de la clase E_Destino_Turisticos con los datos necesarios para ingresar un nuevo destino turístico
@@ -33,20 +30,18 @@ namespace USqlCSharpUdoUnitTestProject1
             E_Aerolinea destinoTuristico = new E_Aerolinea();
             destinoTuristico.codigoAerolinea = "";
             destinoTuristico.nombreAerolinea = "Space";
-            destinoTuristico.siglasAerolinea = "XVl";
-            destinoTuristico.capacidadAerolinea = 122;
-            destinoTuristico.accion = "1";
+            destinoTuristico.siglasAerolinea = "XV";
+            destinoTuristico.capacidadAerolinea = 123;
+            destinoTuristico.accion = "2";
 
             // Act: Ejecutar el método D_RegistroDestinosTuristicos() de la clase D_Destinos_Turisticos
             D_Aerolinea d_Aerolineas = new D_Aerolinea();
-            String resultado = d_Aerolineas.D_RegistroAerolineas (destinoTuristico);
+            String resultado = d_Aerolineas.D_RegistroAerolineas(destinoTuristico);
 
             // Assert: Verificar que el resultado comienza con "Se generó el código: "
-            Assert.IsTrue(resultado.StartsWith("Se generó el código: "));
-
-
-
+            Assert.IsTrue(resultado.StartsWith("Se modificó el código: "));
         }
     }
+
 
 }

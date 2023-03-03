@@ -44,6 +44,7 @@
     <Compile Include="E_Aerolinea.cs" />
     <Compile Include="E_Destino_Turisticos.cs" />
     <Compile Include="E_users.cs" />
+    <Compile Include="ParametrosCliente_.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

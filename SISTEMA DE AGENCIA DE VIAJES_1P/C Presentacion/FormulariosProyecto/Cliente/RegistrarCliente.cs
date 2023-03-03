@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using Capa_Negocio;
 using System.Windows.Forms;
 using System.Text.RegularExpressions;
+using Capa_Entidad;
 
 namespace C_Presentacion.FormulariosProyecto.Cliente
 {
@@ -21,12 +22,12 @@ namespace C_Presentacion.FormulariosProyecto.Cliente
         List<Object> lst_cliente;
         List<Object> cliente;
         Validaciones v = new Validaciones();
+        ParametrosCliente_ pc = new ParametrosCliente_();
         public RegistrarCliente()
         {
             InitializeComponent();
             txtCodigo.Text = c.Generar_codigo("Cliente");
             cargar_Datos();
-            cliente_list = c.busquedaCliente();
         }
 
         //Método para cargar los datos hacia el datagridview
@@ -204,60 +205,33 @@ namespace C_Presentacion.FormulariosProyecto.Cliente
         //Evento necesario para establecer la consulta
         private void BtnConsul_Click(object sender, EventArgs e)
         {
-            //Se establece que mientras el apellido no sea vacio se cumpla la condición
-            if (!txtApellidoBusqueda.Text.Equals(""))
+            if (cmbBuscar.SelectedItem != null)
             {
-                //se creará una variable de tipo string llamada apellido y se le pasará el valor del apellido escrito por el usuario
-                //posterioirmante, se llamará al método de "Buscar_cliente" y se le pasará dicho apellido como parámetro
-                string apellido = txtApellidoBusqueda.Text.Trim();
-                Buscar_Cliente(apellido);
-                cargar_Datos();
+                if (txtBuscarCliente.Text != "")
+                {
+                    pc.Apellidos = txtBuscarCliente.Text;
+                    pc.Nombres = txtBuscarCliente.Text;
+                    pc.valorBusqueda = cmbBuscar.SelectedItem.ToString();
+
+                    // Se crea un nuevo DataTable y luego lo llena con los datos de los clientes
+                    DataTable dt = new DataTable();
+
+                    dt = c.N_buscar_Cliente_(pc);
+
+                    dgvCliente.DataSource = dt;
+                }
+                else
+                {
+                    MessageBox.Show("Error, campo de búsqueda vacío");
+                }
             }
             else
             {
-                //Se devuleve mensaje en caso de que no se haya ingresado un apellido
-                MessageBox.Show("Error, no se ha ingresado un apellido");
+                MessageBox.Show("Error, debe seleccionarse un parámetro de búsqueda");
             }
+            
         }
 
-        //Método necesario para buscar al cliente por el parámetro de apellido
-        public void Buscar_Cliente(string apellido)
-        {
-            //Se recorre la lista de objetos y se trabaja con los tipos de datos anonymus
-            //Se establece que la variable local abstraerá los datos de la lista de clientes
-            foreach (var cliente in cliente_list)
-            {
-                //Se obtiene el valor de cliente
-                System.Type type = cliente.GetType();
-
-                //Se obtiene el valor del apellido y se define una sentencia en la que se igualará con el parámetro de apellido
-                //(parámetro que será llenado por el usuario en el evento anterior)
-                string Apellido = (string)type.GetProperty("apellido").GetValue(cliente);
-                if (apellido.Equals(Apellido))
-                {
-                    //Se guarda cada valor de la lista de objetos en variables locales
-                    String codigo = (String)type.GetProperty("codigo").GetValue(cliente);
-                    String nombres = (String)type.GetProperty("nombre").GetValue(cliente);
-                    String cedula = (String)type.GetProperty("cedula").GetValue(cliente);
-                    string numero_telefono = (string)type.GetProperty("numero_telefono").GetValue(cliente);
-                    String correo_electronico = (String)type.GetProperty("correo_electronico").GetValue(cliente);
-                    String direccion = (String)type.GetProperty("direccion").GetValue(cliente);
-
-                    //Se llenan los textbox con los valores almacenados en cada variable
-                    txtCodigo.Text = codigo.ToString();
-                    txtApellido.Text = apellido;
-                    txtNombre.Text = nombres;
-                    txtCedula.Text = cedula;
-                    txtTelefono.Text = numero_telefono.ToString();
-                    txtCorreo.Text = correo_electronico;
-                    txtDireccion.Text = direccion;
-                }
-                //else
-                  //  MessageBox.Show("Cliente no encontrado");
-                  
-            }
-
-        }
         //Evento del datagridview que permite ver el control del mismo cuando el puntero se mueve atravez de las celdas.
         private void dgvCliente_CellMouseMove(object sender, DataGridViewCellMouseEventArgs e)
         {
@@ -293,6 +267,11 @@ namespace C_Presentacion.FormulariosProyecto.Cliente
                 toolTip.AutoPopDelay = 1000;
                 //toolTip.ReshowDelay = 500;
             }
+        }
+
+        private void iconButton1_Click(object sender, EventArgs e)
+        {
+            cargar_Datos();
         }
     }
 }

@@ -45,7 +45,7 @@
     <Compile Include="ApellidoNoEncontradoExcepcion.cs" />
     <Compile Include="ClienteDuplicadoExcepcion.cs" />
     <Compile Include="ClienteNoEncontradoExcepcion.cs" />
-    <Compile Include="OrigenNoEncontradoException.cs" />
+    <Compile Include="DestinoNoEncontradoException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

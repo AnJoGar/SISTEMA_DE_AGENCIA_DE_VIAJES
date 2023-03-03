@@ -40,7 +40,6 @@ namespace C_Presentacion.Home
             this.PanelInfo = new System.Windows.Forms.Panel();
             this.iconPictureBox1 = new FontAwesome.Sharp.IconPictureBox();
             this.OpcReservas = new System.Windows.Forms.Panel();
-            this.BtnNuevRes = new FontAwesome.Sharp.IconButton();
             this.OpcClientes = new System.Windows.Forms.Panel();
             this.btnNuevoCli = new FontAwesome.Sharp.IconButton();
             this.OpcInventario = new System.Windows.Forms.Panel();
@@ -51,7 +50,6 @@ namespace C_Presentacion.Home
             this.BtnSalir = new FontAwesome.Sharp.IconButton();
             this.BtnInventario = new FontAwesome.Sharp.IconButton();
             this.BtnClientes = new FontAwesome.Sharp.IconButton();
-            this.BtnReservas = new FontAwesome.Sharp.IconButton();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.BtnNorm)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.BtnMax)).BeginInit();
@@ -61,7 +59,6 @@ namespace C_Presentacion.Home
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.PanelInfo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.iconPictureBox1)).BeginInit();
-            this.OpcReservas.SuspendLayout();
             this.OpcClientes.SuspendLayout();
             this.OpcInventario.SuspendLayout();
             this.panelOpciones.SuspendLayout();
@@ -79,7 +76,7 @@ namespace C_Presentacion.Home
             this.panel3.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel3.Location = new System.Drawing.Point(0, 0);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(881, 29);
+            this.panel3.Size = new System.Drawing.Size(995, 29);
             this.panel3.TabIndex = 10;
             this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
             // 
@@ -88,7 +85,7 @@ namespace C_Presentacion.Home
             this.BtnNorm.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.BtnNorm.Image = global::C_Presentacion.Properties.Resources._4;
-            this.BtnNorm.Location = new System.Drawing.Point(807, 3);
+            this.BtnNorm.Location = new System.Drawing.Point(921, 3);
             this.BtnNorm.Name = "BtnNorm";
             this.BtnNorm.Size = new System.Drawing.Size(23, 23);
             this.BtnNorm.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -123,7 +120,7 @@ namespace C_Presentacion.Home
             this.Btnmin.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Btnmin.Image = global::C_Presentacion.Properties.Resources._22;
-            this.Btnmin.Location = new System.Drawing.Point(767, 2);
+            this.Btnmin.Location = new System.Drawing.Point(881, 2);
             this.Btnmin.Name = "Btnmin";
             this.Btnmin.Size = new System.Drawing.Size(23, 23);
             this.Btnmin.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -136,7 +133,7 @@ namespace C_Presentacion.Home
             this.pictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox1.Image = global::C_Presentacion.Properties.Resources._11;
-            this.pictureBox1.Location = new System.Drawing.Point(846, 2);
+            this.pictureBox1.Location = new System.Drawing.Point(960, 2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(23, 23);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -151,7 +148,7 @@ namespace C_Presentacion.Home
             this.PanelForms.Dock = System.Windows.Forms.DockStyle.Fill;
             this.PanelForms.Location = new System.Drawing.Point(251, 29);
             this.PanelForms.Name = "PanelForms";
-            this.PanelForms.Size = new System.Drawing.Size(630, 536);
+            this.PanelForms.Size = new System.Drawing.Size(744, 536);
             this.PanelForms.TabIndex = 12;
             // 
             // pictureBox4
@@ -160,7 +157,7 @@ namespace C_Presentacion.Home
             this.pictureBox4.Image = global::C_Presentacion.Properties.Resources.My_project_1;
             this.pictureBox4.Location = new System.Drawing.Point(0, 0);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(630, 536);
+            this.pictureBox4.Size = new System.Drawing.Size(744, 536);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 1;
             this.pictureBox4.TabStop = false;
@@ -194,30 +191,11 @@ namespace C_Presentacion.Home
             // 
             this.OpcReservas.AutoSize = true;
             this.OpcReservas.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(36)))), ((int)(((byte)(71)))));
-            this.OpcReservas.Controls.Add(this.BtnNuevRes);
             this.OpcReservas.Dock = System.Windows.Forms.DockStyle.Top;
-            this.OpcReservas.Location = new System.Drawing.Point(0, 144);
+            this.OpcReservas.Location = new System.Drawing.Point(0, 103);
             this.OpcReservas.Name = "OpcReservas";
-            this.OpcReservas.Size = new System.Drawing.Size(234, 37);
+            this.OpcReservas.Size = new System.Drawing.Size(234, 0);
             this.OpcReservas.TabIndex = 2;
-            // 
-            // BtnNuevRes
-            // 
-            this.BtnNuevRes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.BtnNuevRes.Dock = System.Windows.Forms.DockStyle.Top;
-            this.BtnNuevRes.FlatAppearance.BorderSize = 0;
-            this.BtnNuevRes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnNuevRes.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnNuevRes.IconChar = FontAwesome.Sharp.IconChar.None;
-            this.BtnNuevRes.IconColor = System.Drawing.Color.Black;
-            this.BtnNuevRes.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.BtnNuevRes.Location = new System.Drawing.Point(0, 0);
-            this.BtnNuevRes.Name = "BtnNuevRes";
-            this.BtnNuevRes.Size = new System.Drawing.Size(234, 37);
-            this.BtnNuevRes.TabIndex = 0;
-            this.BtnNuevRes.Text = " Reserva";
-            this.BtnNuevRes.UseVisualStyleBackColor = false;
-            this.BtnNuevRes.Click += new System.EventHandler(this.BtnNuevRes_Click);
             // 
             // OpcClientes
             // 
@@ -225,7 +203,7 @@ namespace C_Presentacion.Home
             this.OpcClientes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(36)))), ((int)(((byte)(71)))));
             this.OpcClientes.Controls.Add(this.btnNuevoCli);
             this.OpcClientes.Dock = System.Windows.Forms.DockStyle.Top;
-            this.OpcClientes.Location = new System.Drawing.Point(0, 234);
+            this.OpcClientes.Location = new System.Drawing.Point(0, 156);
             this.OpcClientes.Name = "OpcClientes";
             this.OpcClientes.Size = new System.Drawing.Size(234, 37);
             this.OpcClientes.TabIndex = 4;
@@ -256,7 +234,7 @@ namespace C_Presentacion.Home
             this.OpcInventario.Controls.Add(this.iconButton1);
             this.OpcInventario.Controls.Add(this.BtnNuevoDesT);
             this.OpcInventario.Dock = System.Windows.Forms.DockStyle.Top;
-            this.OpcInventario.Location = new System.Drawing.Point(0, 312);
+            this.OpcInventario.Location = new System.Drawing.Point(0, 234);
             this.OpcInventario.Name = "OpcInventario";
             this.OpcInventario.Size = new System.Drawing.Size(234, 90);
             this.OpcInventario.TabIndex = 6;
@@ -307,7 +285,6 @@ namespace C_Presentacion.Home
             this.panelOpciones.Controls.Add(this.OpcClientes);
             this.panelOpciones.Controls.Add(this.BtnClientes);
             this.panelOpciones.Controls.Add(this.OpcReservas);
-            this.panelOpciones.Controls.Add(this.BtnReservas);
             this.panelOpciones.Controls.Add(this.PanelInfo);
             this.panelOpciones.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelOpciones.ForeColor = System.Drawing.Color.LightGray;
@@ -321,7 +298,7 @@ namespace C_Presentacion.Home
             this.PanelCerrar.BackColor = System.Drawing.Color.OrangeRed;
             this.PanelCerrar.Controls.Add(this.BtnSalir);
             this.PanelCerrar.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.PanelCerrar.Location = new System.Drawing.Point(0, 402);
+            this.PanelCerrar.Location = new System.Drawing.Point(0, 324);
             this.PanelCerrar.Name = "PanelCerrar";
             this.PanelCerrar.Size = new System.Drawing.Size(234, 234);
             this.PanelCerrar.TabIndex = 1;
@@ -360,7 +337,7 @@ namespace C_Presentacion.Home
             this.BtnInventario.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.BtnInventario.IconSize = 35;
             this.BtnInventario.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.BtnInventario.Location = new System.Drawing.Point(0, 271);
+            this.BtnInventario.Location = new System.Drawing.Point(0, 193);
             this.BtnInventario.Name = "BtnInventario";
             this.BtnInventario.Padding = new System.Windows.Forms.Padding(28, 0, 0, 0);
             this.BtnInventario.Size = new System.Drawing.Size(234, 41);
@@ -381,7 +358,7 @@ namespace C_Presentacion.Home
             this.BtnClientes.IconColor = System.Drawing.Color.White;
             this.BtnClientes.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.BtnClientes.IconSize = 35;
-            this.BtnClientes.Location = new System.Drawing.Point(0, 181);
+            this.BtnClientes.Location = new System.Drawing.Point(0, 103);
             this.BtnClientes.Name = "BtnClientes";
             this.BtnClientes.Size = new System.Drawing.Size(234, 53);
             this.BtnClientes.TabIndex = 3;
@@ -390,33 +367,11 @@ namespace C_Presentacion.Home
             this.BtnClientes.UseVisualStyleBackColor = false;
             this.BtnClientes.Click += new System.EventHandler(this.BtnClientes_Click);
             // 
-            // BtnReservas
-            // 
-            this.BtnReservas.BackColor = System.Drawing.Color.OrangeRed;
-            this.BtnReservas.Dock = System.Windows.Forms.DockStyle.Top;
-            this.BtnReservas.FlatAppearance.BorderSize = 0;
-            this.BtnReservas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnReservas.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnReservas.IconChar = FontAwesome.Sharp.IconChar.Receipt;
-            this.BtnReservas.IconColor = System.Drawing.Color.White;
-            this.BtnReservas.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.BtnReservas.IconSize = 35;
-            this.BtnReservas.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.BtnReservas.Location = new System.Drawing.Point(0, 103);
-            this.BtnReservas.Name = "BtnReservas";
-            this.BtnReservas.Padding = new System.Windows.Forms.Padding(28, 0, 0, 0);
-            this.BtnReservas.Size = new System.Drawing.Size(234, 41);
-            this.BtnReservas.TabIndex = 1;
-            this.BtnReservas.Text = "Reservas";
-            this.BtnReservas.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.BtnReservas.UseVisualStyleBackColor = false;
-            this.BtnReservas.Click += new System.EventHandler(this.BtnReservas_Click);
-            // 
             // PantallaPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(881, 565);
+            this.ClientSize = new System.Drawing.Size(995, 565);
             this.ControlBox = false;
             this.Controls.Add(this.PanelForms);
             this.Controls.Add(this.panelOpciones);
@@ -436,7 +391,6 @@ namespace C_Presentacion.Home
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.PanelInfo.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.iconPictureBox1)).EndInit();
-            this.OpcReservas.ResumeLayout(false);
             this.OpcClientes.ResumeLayout(false);
             this.OpcInventario.ResumeLayout(false);
             this.panelOpciones.ResumeLayout(false);
@@ -456,9 +410,7 @@ namespace C_Presentacion.Home
         private System.Windows.Forms.Panel PanelForms;
         private System.Windows.Forms.Panel PanelInfo;
         private FontAwesome.Sharp.IconPictureBox iconPictureBox1;
-        private FontAwesome.Sharp.IconButton BtnReservas;
         private System.Windows.Forms.Panel OpcReservas;
-        private FontAwesome.Sharp.IconButton BtnNuevRes;
         private System.Windows.Forms.Panel OpcClientes;
         private FontAwesome.Sharp.IconButton BtnInventario;
         private System.Windows.Forms.Panel OpcInventario;

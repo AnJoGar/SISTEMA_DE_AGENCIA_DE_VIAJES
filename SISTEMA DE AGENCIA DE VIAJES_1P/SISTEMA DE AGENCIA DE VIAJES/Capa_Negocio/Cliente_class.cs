@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Capa_Datos;
+using Capa_Entidad;
 
 namespace Capa_Negocio
 {   //Heredará de la clase persona
@@ -98,10 +99,10 @@ namespace Capa_Negocio
             return msj;
         }
 
-        //Método que devolverá la lista de objetos traida de la base de datos (para llenar los campos de textbox en la capa de presentación)
-        public List<Object> busquedaCliente()
+        //Método que devolverá los parámetros ingresados por el usuario (desde la capa de presentación), esto para posteriormente enviarlos hacia la capa de datos, donde se realizará la respectiva consulta
+        public DataTable N_buscar_Cliente_(ParametrosCliente_ cliente)
         {
-            return m.busquedaCliente();
+            return m.D_buscar_Cliente(cliente);
         }
     }
 }

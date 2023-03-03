@@ -26,6 +26,13 @@ select id_area,nombre,usuario,contraseña from Usuario
 where usuario=@usuario and contraseña=@clave
 go
 
+
+
+
+
+
+
+
 create table DestinoTuristico
 (
 codigo varchar(5),
@@ -35,7 +42,7 @@ precio decimal(10,2)
 );
 go
 
-
+-----
 create proc sp_ingreso_destino_turistico
 @codigo varchar(5),
 @origen varchar(100),
@@ -70,21 +77,36 @@ as
 select * from DestinoTuristico order by codigo
 go
 
+---------
 
+alter proc sp_buscar_DestinoTuristico
+@destino varchar(50),
+@origen varchar (50),
+@tipoBusqueda VARCHAR(50)
+as
+(select codigo,origen,destino,precio from DestinoTuristico where( @tipoBusqueda = 'Destino' AND destino  like @destino  + '%')
+																	OR (@tipoBusqueda = 'Origen' AND origen  like @origen  + '%'))
+go
+
+
+
+
+
+drop table Aerolineas;
 create table Aerolineas
 (
 codigo varchar(5),
 nombre varchar(50),
 siglas varchar(10),
-capacidad varchar (10)
+capacidad INt
 );
 go
-
-
-create proc sp_ingreso_Aerolineas
+------
+alter proc sp_ingreso_Aerolineas
 @codigo varchar(5),
 @nombre varchar(50),
 @siglas varchar(10),
+@capacidad int,
 @accion varchar(50)output
 as
 if (@accion='1')
@@ -93,13 +115,13 @@ begin
 	set @codmax = (select max(codigo) from Aerolineas)
 	set @codmax = isnull(@codmax,'A0000')
 	set @codnuevo = 'A'+RIGHT(RIGHT(@codmax,4)+10001,4)
-	insert into Aerolineas(codigo,nombre,siglas)
-	values(@codnuevo,@nombre,@siglas)
+	insert into Aerolineas(codigo,nombre,siglas,capacidad)
+	values(@codnuevo,@nombre,@siglas,@capacidad)
 	set @accion='Se generó el código: ' +@codnuevo
 end
 else if (@accion='2')
 begin
-	update Aerolineas set nombre=@nombre, siglas=@siglas where codigo=@codigo
+	update Aerolineas set nombre=@nombre, siglas=@siglas, capacidad=@capacidad where codigo=@codigo
 	set @accion='Se modificó el código: ' +@codigo
 end
 else if (@accion='3')
@@ -107,13 +129,21 @@ begin
 	delete from Aerolineas where codigo=@codigo
 	set @accion='Se borró el código: ' +@codigo
 end
-
-
+---------
 create proc sp_listar_Aerolineas
 as
 select * from Aerolineas order by codigo
 go
 
+--------
+alter proc sp_buscar_Aerolineas
+@nombre varchar(50),
+@siglas varchar(50),
+@tipoBusqueda VARCHAR(50)
+as
+(select codigo,nombre,siglas,capacidad from Aerolineas where( @tipoBusqueda = 'Nombre'  AND  nombre like @nombre  + '%')
+														OR( @tipoBusqueda = 'Siglas'  AND  siglas like @siglas  + '%'))
+go
 
 
 create table Cliente
@@ -128,19 +158,16 @@ direccion varchar(150)
 );
 
 
-
-create proc sp_buscar_DestinoTuristico
-@codigo varchar(50)
+alter proc sp_buscar_cliente_
+@apellido varchar(50),
+@nombre varchar (50),
+@tipoBusqueda VARCHAR(50)
 as
-(select codigo,origen,destino,precio from DestinoTuristico where codigo  like @codigo  + '%')
+(select codigo,apellido,nombre,cedula, numero_telefono, correo_electronico, direccion from Cliente where( @tipoBusqueda = 'apellido' AND apellido  like @apellido  + '%')
+																	OR (@tipoBusqueda = 'nombre' AND nombre  like @nombre  + '%'))
 go
 
 
-create proc sp_buscar_Aerolineas
-@nombre varchar(50)
-as
-(select codigo,nombre,siglas from Aerolineas where nombre  like @nombre  + '%')
-go
 
 create table Reservas
 (
@@ -156,24 +183,3 @@ Destino varchar(100),
 
 
 
-ALTER PROCEDURE sp_buscar_DestinoTuristico
-@codigo varchar(50)
-AS
-(SELECT codigo, origen, destino, precio FROM DestinoTuristico WHERE codigo LIKE @codigo + '%')
-GO
-
-alter proc sp_buscar_DestinoTuristico
-@destino varchar(50)
-as
-(select codigo,origen,destino,precio from DestinoTuristico where destino  like @destino  + '%')
-go
-
---corregida el alter
-alter proc sp_buscar_DestinoTuristico
-@destino varchar(50),
-@origen varchar (50),
-@tipoBusqueda VARCHAR(50)
-as
-(select codigo,origen,destino,precio from DestinoTuristico where( @tipoBusqueda = 'Destino' AND destino  like @destino  + '%')
-																	OR (@tipoBusqueda = 'Origen' AND origen  like @origen  + '%'))
-go

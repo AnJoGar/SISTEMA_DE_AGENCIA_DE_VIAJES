@@ -9,11 +9,11 @@ namespace Excepciones
 {
     
      // Clase de excepción personalizada para el manejo de errores cuando no se encuentra un origen turístico
-    public class OrigenNoEncontradoException : Exception
+    public class DestinoNoEncontradoException : Exception
     {
         
 	// Constructor vacío por defecto
-	public OrigenNoEncontradoException()
+	public DestinoNoEncontradoException()
         {
 
 
@@ -21,7 +21,7 @@ namespace Excepciones
 
 	// Constructor que recibe un mensaje personalizado y lo envía a la clase base Exception para su manejo
         // También llama al método privado EscribirErrores
-        public OrigenNoEncontradoException(string message) : base(message)
+        public DestinoNoEncontradoException(string message) : base(message)
         {
             EscribirErrores(message);
         }
@@ -29,7 +29,7 @@ namespace Excepciones
 	
 	// Constructor que recibe un mensaje personalizado y una excepción interna, y los envía a la clase base Exception para su manejo
         // También llama al método privado EscribirErrores
-        public OrigenNoEncontradoException(string message, Exception innerException)
+        public DestinoNoEncontradoException(string message, Exception innerException)
         : base(message, innerException)
         {
             EscribirErrores(message);
@@ -41,7 +41,7 @@ namespace Excepciones
         {
             if (dt.Rows.Count == 0)
             {
-                throw new OrigenNoEncontradoException("No se encontraron destinos turísticos con el origen especificado");
+                throw new DestinoNoEncontradoException("No se encontraron destinos turísticos con el dato especificado");
             }
         }
 

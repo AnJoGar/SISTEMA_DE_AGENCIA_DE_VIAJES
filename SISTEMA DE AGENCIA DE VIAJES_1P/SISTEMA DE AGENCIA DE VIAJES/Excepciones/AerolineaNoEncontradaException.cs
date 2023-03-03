@@ -39,7 +39,7 @@ namespace Excepciones
         {
             if (dt.Rows.Count == 0)
             {
-                throw new OrigenNoEncontradoException("No se encontraron Aerolineas con el nombre especificado");
+                throw new DestinoNoEncontradoException("No se encontraron Aerolineas con el dato especificado");
             }
         }
 

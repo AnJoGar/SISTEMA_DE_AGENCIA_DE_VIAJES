@@ -1,6 +1,6 @@
 ﻿
 using C_Presentacion.FormulariosProyecto.Cliente;
-using C_Presentacion.FormulariosProyecto.Reservas;
+
 using C_Presentacion.FormulariosProyecto.Inventario;
 using FontAwesome.Sharp;
 using System;
@@ -44,7 +44,7 @@ namespace C_Presentacion.Home
             this.BtnNorm.Visible = true;
             this.BtnClientes.Visible = true;
             this.BtnInventario.Visible = true;
-            this.BtnReservas.Visible = true;
+            //this.BtnReservas.Visible = true;
             
 
 
@@ -221,7 +221,7 @@ namespace C_Presentacion.Home
 
         private void BtnNuevRes_Click(object sender, EventArgs e)
         {
-            abrirhijoform(new Reservas());
+          //  abrirhijoform(new Reservas());
         }
 
         private void iconButton1_Click(object sender, EventArgs e)

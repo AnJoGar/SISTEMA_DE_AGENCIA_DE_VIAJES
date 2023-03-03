@@ -43,7 +43,7 @@ namespace Excepciones
         {
             if (dt.Rows.Count == 0)
             {
-                throw new OrigenNoEncontradoException("Cliente existente ");
+                throw new DestinoNoEncontradoException("Cliente existente ");
             }
         }
 

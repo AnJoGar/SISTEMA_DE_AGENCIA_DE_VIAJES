@@ -1,4 +1,5 @@
-﻿using Excepciones;
+﻿using Capa_Entidad;
+using Excepciones;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -96,7 +97,8 @@ namespace Capa_Datos
         public String modificar_cliente(List<Parametros_Cliente> lst)
         {
             string msj = "";
-            
+            try
+            {
                 //Se crea el if dentro del Try para denotar posibles errores
                 if (lst != null)
                 {   //Se establece que la sentencia de Update se envie si la lista es diferente de null, es decir, no está vacia.
@@ -114,46 +116,40 @@ namespace Capa_Datos
                     c.cerrar_conexion();
                     msj = "Modificación exitosa :)";
                 }
-            
+            }
+            ////Se atrapan las excepciones y se cierra la conexión
+            catch (Exception ex)
+            {
+                msj = "Error de modificación por:" + ex;
+            }
             return msj;
         }
         //Se creará una lista de objetos la cual devuelva los valores de cada campo desde la base de datos
-        public List<Object> busquedaCliente()
-        {      
-                //Se define una lista de objetos y las sentencias necesarias para devolver los valores desde la base de datos
-                List<Object> lstCliente = new List<Object>();
-                cmd = new SqlCommand("Select codigo, apellido, nombre, cedula, numero_telefono, correo_electronico, direccion " + "from Cliente;", c.abrir_conexion());
-                SqlDataReader registros = cmd.ExecuteReader();
-                //Se define que mientras la variable de SqlDataReader lea los datos, se agreguen a la lista de objetos de cliente
-                while (registros.Read())
-                {
-                    var tmp = new
-                    {
-                        codigo = registros["codigo"].ToString(),
-                        apellido = registros["apellido"].ToString(),
-                        nombre = registros["nombre"].ToString(),
-                        cedula = registros["cedula"].ToString(),
-                        numero_telefono = registros["numero_telefono"].ToString(),
-                        correo_electronico = registros["correo_electronico"].ToString(),
-                        direccion = registros["direccion"].ToString()
-                    };
-                    lstCliente.Add(tmp);
-                }
-                //Se cierra la conexión y se devuelve la lista de clientes
-                c.cerrar_conexion();
+        public DataTable D_buscar_Cliente(ParametrosCliente_ cliente)
+        {
+            SqlCommand cmd = new SqlCommand("sp_buscar_cliente_", c.abrir_conexion());
+            cmd.CommandType = CommandType.StoredProcedure;
 
-                try
-                {
-                    ClienteNoEncontradoExcepcion.ClienteNoEncontrado(lstCliente);
-                }
-                catch (ClienteNoEncontradoExcepcion ex)
-                {
+            cmd.Parameters.AddWithValue("@apellido", cliente.Apellidos);
+            cmd.Parameters.AddWithValue("@nombre", cliente.Nombres);
+            cmd.Parameters.AddWithValue("@tipoBusqueda", cliente.valorBusqueda);
+            // Se crea un nuevo objeto SqlDataAdapter para ejecutar el comando y llenar un DataTable con los resultados
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            try
+            {
+                ClienteNoEncontradoExcepcion.ClienteNoEncontrado(dt);
+            }
+            catch (ClienteNoEncontradoExcepcion ex)
+            {
 
-                    throw new ClienteNoEncontradoExcepcion("Excepcion Personalizada" + ex.Message);
+                throw new ClienteNoEncontradoExcepcion("Excepcion Personalizada" + ex.Message);
 
-                }
+            }
 
-                return lstCliente;
+            // Devuelve el DataTable con los datos
+            return dt;
         }
     }
 }

@@ -16,3 +16,9 @@ C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregid
 C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.pdb

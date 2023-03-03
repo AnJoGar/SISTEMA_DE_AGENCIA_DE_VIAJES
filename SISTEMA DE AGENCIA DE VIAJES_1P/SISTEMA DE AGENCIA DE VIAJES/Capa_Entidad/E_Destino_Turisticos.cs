@@ -26,6 +26,8 @@ namespace Capa_Entidad
 
         // Propiedad que almacena la acción a realizar (insertar o actualizar)
         public String accion { get; set; }
+
+        public string valorBusqueda { get; set; }
     }
   
 

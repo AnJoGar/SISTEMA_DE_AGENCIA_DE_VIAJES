@@ -85,3 +85,14 @@ C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregid
 C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
 C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Datos\obj\Debug\Capa_Datos.dll
 C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Datos\bin\Debug\Excepciones.dll
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Datos\bin\Debug\Excepciones.pdb
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Capa_Datos\obj\Debug\Capa_Datos.pdb

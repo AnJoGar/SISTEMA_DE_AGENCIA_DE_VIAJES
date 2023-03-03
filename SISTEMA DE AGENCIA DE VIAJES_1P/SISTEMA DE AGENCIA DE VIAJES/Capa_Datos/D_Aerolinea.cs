@@ -35,7 +35,7 @@ namespace Capa_Datos
             cmd.Parameters.AddWithValue("@codigo", obje.codigoAerolinea);
             cmd.Parameters.AddWithValue("@nombre", obje.nombreAerolinea);
             cmd.Parameters.AddWithValue("@siglas", obje.siglasAerolinea);
-
+            cmd.Parameters.AddWithValue("@capacidad", obje.capacidadAerolinea);
             // Agrega un parámetro de salida para almacenar la acción realizada
             cmd.Parameters.Add("@accion", SqlDbType.VarChar, 50).Value = obje.accion;
             cmd.Parameters["@accion"].Direction = ParameterDirection.InputOutput;
@@ -71,22 +71,25 @@ namespace Capa_Datos
             SqlCommand cmd = new SqlCommand("sp_buscar_Aerolineas", c.abrir_conexion());
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@nombre", obje.nombreAerolinea);
+            cmd.Parameters.AddWithValue("@siglas", obje.siglasAerolinea);
+            cmd.Parameters.AddWithValue("@tipoBusqueda", obje.valorBusqueda);
             // Se crea un nuevo objeto SqlDataAdapter para ejecutar el comando y llenar un DataTable con los resultados
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
             da.Fill(dt);
-
             try
             {
                 AerolineaNoEncontradaException.AerolineaNoEncontrada(dt);
 
             }
-            catch (AerolineaNoEncontradaException ex) {
+            catch (AerolineaNoEncontradaException ex)
+            {
 
                 throw new AerolineaNoEncontradaException("Excepcion Personalizado" + ex.Message);
 
             }
-           // ExcepcionAerolinea.AerolineaNoEncontradaException(dt);
+
+            // ExcepcionAerolinea.AerolineaNoEncontradaException(dt);
             return dt;
         }
     }

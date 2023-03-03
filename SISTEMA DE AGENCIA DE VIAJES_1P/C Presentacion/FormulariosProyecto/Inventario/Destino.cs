@@ -15,7 +15,7 @@ namespace C_Presentacion.FormulariosProyecto.Inventario
     public partial class Destino : Form
 
     {
-
+        
 
         // Creación de una nueva instancia de E_Destino_Turisticos
         E_Destino_Turisticos objent = new E_Destino_Turisticos();
@@ -28,7 +28,8 @@ namespace C_Presentacion.FormulariosProyecto.Inventario
         public Destino()
         {
             InitializeComponent();
-
+            cbBuscar.Items.Add("Destino");
+            cbBuscar.Items.Add("Origen");
 
         }
         public void ShowErrorMessage(string message)
@@ -37,10 +38,11 @@ namespace C_Presentacion.FormulariosProyecto.Inventario
             MessageBox.Show(message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
-
+        
         // Método para ingresar un nuevo destino turístico
         void ingresar(String accion)
         {
+            
             // Comprobación si el precio no está vacío y es un decimal válido
             if (!Validacion.NoVacio(txtPrecio.Text, "Precio", ShowErrorMessage) || !Validacion.EsDecimal(txtPrecio.Text, ShowErrorMessage))
             {
@@ -62,18 +64,71 @@ namespace C_Presentacion.FormulariosProyecto.Inventario
             MessageBox.Show(Registar_Destinos_Turisticos, "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
-        //Método para mostrar un destino en específico mediante el filtro código
-         void MostrarDestinoTuristico()
+        // Método para actualizar un nuevo destino turístico
+        void actualizar(String accion)
         {
-           
-            objent.destino = txtBuscarDestino.Text;
 
-            // Se crea un nuevo DataTable y luego lo llena con los datos de los destinos turísticos
+            // Comprobación si el precio no está vacío y es un decimal válido
+
+            if (!Validacion.NotEmpty(txtPrecio.Text, error => MessageBox.Show(error)))
+            {
+                return;
+            }
+            if (!Validacion.NoVacio(txtOrigen.Text, "Origen", ShowErrorMessage) || !Validacion.SoloLetras(txtOrigen.Text, "Origen", ShowErrorMessage) ||
+               !Validacion.NoVacio(txtDestino.Text, "Destino", ShowErrorMessage) || !Validacion.SoloLetras(txtDestino.Text, "Destino", ShowErrorMessage))
+            {
+                return;
+            }
+            objent.codigo = txtCodigoDestino.Text;
+            objent.origen = txtOrigen.Text;
+            objent.destino = txtDestino.Text;
+            objent.precio = Convert.ToDecimal(txtPrecio.Text);
+            objent.accion = accion;
+            String Registar_Destinos_Turisticos = objneg.N_Registar_Destinos_Turisticos(objent);
+            MessageBox.Show(Registar_Destinos_Turisticos, "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+
+        }
+        void MostrarDestinoT()
+        {
+         // Se crea un nuevo DataTable y luego lo llena con los datos de los destinos turísticos
             DataTable dt = new DataTable();
-            
-            dt = objneg.N_buscar_DestinoTuristicos(objent);
-            
+
+            dt = objneg.N_Listar_Destinos_Turisticos();
+
             dgvDestino.DataSource = dt;
+
+        }
+        //Método para mostrar un destino en específico mediante el filtro código
+        void MostrarDestinoTuristico()
+        {
+            if (cbBuscar.SelectedItem != null)
+            {
+                if (txtBuscarDestino.Text != "")
+                {
+                    objent.destino = txtBuscarDestino.Text;
+                    objent.origen = txtBuscarDestino.Text;
+                    objent.valorBusqueda = cbBuscar.SelectedItem.ToString();
+
+            
+
+                     // Se crea un nuevo DataTable y luego lo llena con los datos de los destinos turísticos
+                     DataTable dt = new DataTable();
+            
+                    dt = objneg.N_buscar_DestinoTuristicos(objent);
+            
+                    dgvDestino.DataSource = dt;
+                }
+                else
+                {
+                    MessageBox.Show("Error, campo de búsqueda vacío");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Error, debe seleccionarse un parámetro de búsqueda");
+            }
+
 
         }
 
@@ -87,7 +142,7 @@ namespace C_Presentacion.FormulariosProyecto.Inventario
                 //metodo para registrar destinos turísticos
                 ingresar("1");
                 limpiar();
-                MostrarDestinoTuristico();
+                MostrarDestinoT();
 
             }
 
@@ -125,12 +180,17 @@ namespace C_Presentacion.FormulariosProyecto.Inventario
         {
             // Llama al método agregar destino que contien la acción "1" para registrar
             AgregarDestinosTuristicos();
+           
         }
 
         private void btnActualizarDestino_Click(object sender, EventArgs e)
         {
+
             // Llama al método ingresar con la acción "2" para actualizar
-            ingresar("2");
+
+            actualizar("2");
+            limpiar();
+            MostrarDestinoT();
         }
 
         private void NuevoDestino_Load(object sender, EventArgs e)
@@ -194,6 +254,27 @@ namespace C_Presentacion.FormulariosProyecto.Inventario
         private void label4_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void cbBuscar_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            switch (cbBuscar.SelectedItem.ToString())
+            {
+                case "Destino":
+                    txtBuscarDestino.Text = "";
+                    break;
+                case "Origen":
+                    txtBuscarDestino.Text = "";
+                    break;
+               
+            }
+
+        }
+
+        private void btnMTodo_Click(object sender, EventArgs e)
+        {
+            // Se crea un nuevo DataTable y luego lo llena con los datos de los destinos turísticos
+            MostrarDestinoT();
         }
     }
 }

@@ -11,23 +11,23 @@ namespace Excepciones
     // Clase de excepción personalizada para el manejo de errores cuando no se encuentra un cliente
     public class ClienteNoEncontradoExcepcion : Exception
     {
-        
-	// Constructor vacío por defecto
-	public ClienteNoEncontradoExcepcion()
+
+        // Constructor vacío por defecto
+        public ClienteNoEncontradoExcepcion()
         {
 
 
         }
 
 
-	// Constructor que recibe un mensaje de error y lo envía al método "EscribirErrores"
+        // Constructor que recibe un mensaje de error y lo envía al método "EscribirErrores"
         public ClienteNoEncontradoExcepcion(string message) : base(message)
         {
             EscribirErrores(message);
         }
 
 
-	 // Constructor que recibe un mensaje de error y una excepción interna, y los envía al método "EscribirErrores"
+        // Constructor que recibe un mensaje de error y una excepción interna, y los envía al método "EscribirErrores"
         public ClienteNoEncontradoExcepcion(string message, Exception innerException)
         : base(message, innerException)
         {
@@ -35,17 +35,17 @@ namespace Excepciones
         }
 
 
-	// Método estático que verifica si una lista de objetos está vacía y, si es así, lanza una excepción "ClienteNoEncontradoExcepcion" con un mensaje de error.
-        public static void ClienteNoEncontrado(List<object> lstClientes)
+        // Método estático que verifica si una lista de objetos está vacía y, si es así, lanza una excepción "ClienteNoEncontradoExcepcion" con un mensaje de error.
+        public static void ClienteNoEncontrado(DataTable cliente)
         {
-            if (lstClientes.Count == 0)
+            if (cliente.Rows.Count == 0)
             {
                 throw new ClienteNoEncontradoExcepcion("No se encontraron clientes con el apellido especificado");
             }
         }
 
 
-	 // Método privado que se encarga de escribir los errores en algún lugar (por ejemplo, en un archivo de log). 
+        // Método privado que se encarga de escribir los errores en algún lugar (por ejemplo, en un archivo de log). 
         // En este caso, siempre devuelve verdadero.
         private bool EscribirErrores(string error)
         {

@@ -18,11 +18,11 @@ namespace Capa_Entidad
         // Propiedad que almacena las siglas de la aerolínea
         public String siglasAerolinea { get; set; }
 
-
+        public int capacidadAerolinea { get; set; }
         // Propiedad que almacena la acción a realizar (insertar o actualizar)
         public String accion { get; set; }
 
-
+        public string valorBusqueda { get; set; }
 
     }
 }

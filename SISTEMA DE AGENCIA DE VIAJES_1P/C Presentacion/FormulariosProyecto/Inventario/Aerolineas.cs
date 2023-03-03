@@ -25,6 +25,8 @@ namespace C_Presentacion.FormulariosProyecto.Inventario
         public Aerolineas()
         {
             InitializeComponent();
+            cbBuscar.Items.Add("Nombre");
+            cbBuscar.Items.Add("Siglas");
         }
 	    //Método para mostrar un mensaje de error
         public void ShowErrorMessage(string message)
@@ -37,32 +39,89 @@ namespace C_Presentacion.FormulariosProyecto.Inventario
         void RegistrarAreolinea(String accion)
         {
             // Comprobación de los campos de nombre y siglas que no están vacíos
-            if  (!Validacion.NoVacio(txtNombreAerolinea.Text,"Nombre de Aerolínea", ShowErrorMessage) || !Validacion.SoloLetras(txtNombreAerolinea.Text, "Nombre de Aerolínea", ShowErrorMessage) ||
-                !Validacion.NoVacio(txtSiglasAerolinea.Text,"Sigla de aerolínea" ,ShowErrorMessage) || !Validacion.SoloLetras(txtSiglasAerolinea.Text, "Sigla de aerolínea" , ShowErrorMessage))
-                {
+            if (!Validacion.NoVacio(txtNombreAerolinea.Text, "Nombre de Aerolínea", ShowErrorMessage)||!Validacion.SoloLetras(txtNombreAerolinea.Text, "Nombre de Aerolínea", ShowErrorMessage) ||
+                !Validacion.NoVacio(txtSiglasAerolinea.Text, "Sigla de aerolínea", ShowErrorMessage) || !Validacion.SoloLetras(txtSiglasAerolinea.Text, "Sigla de aerolínea", ShowErrorMessage)
+                )
+            {
                 return;
             }
             objent.codigoAerolinea = txtCodigoAerolinea.Text;
             objent.nombreAerolinea = txtNombreAerolinea.Text;
             objent.siglasAerolinea = txtSiglasAerolinea.Text;
-
+            objent.capacidadAerolinea = Convert.ToInt32(txtCapacidad.Text);
             // Llamar al método N_Registrar_Aerolinea de la clase N_Aerolinea y asignar el resultado a la variable Registrar_Aerolinea
             objent.accion = accion;
             String Registrar_Aerolinea = objneg.N_Registrar_Aerolinea(objent);
             MessageBox.Show(Registrar_Aerolinea, "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
-	//Método para buscar aerolínea por el campo nombre.
+        void ActualizarAreolinea(String accion)
+        {
+            // Comprobación de los campos de nombre y siglas que no están vacíos
+            if (!Validacion.NotEmpty(txtNombreAerolinea.Text, error => MessageBox.Show(error)))
+            {
+                return;
+            }
+            if (!Validacion.NoVacio(txtCapacidad.Text, "Capacidad de Aerolinea", ShowErrorMessage) )
+               
+            {
+                return;
+            }
+            if (!Validacion.NoVacio(txtNombreAerolinea.Text, "Nombre de Aerolínea", ShowErrorMessage) || !Validacion.SoloLetras(txtNombreAerolinea.Text, "Nombre de Aerolínea", ShowErrorMessage) ||
+                !Validacion.NoVacio(txtSiglasAerolinea.Text, "Sigla de aerolínea", ShowErrorMessage) || !Validacion.SoloLetras(txtSiglasAerolinea.Text, "Sigla de aerolínea", ShowErrorMessage)
+                )
+            {
+                return;
+            }
+
+            objent.codigoAerolinea = txtCodigoAerolinea.Text;
+            objent.nombreAerolinea = txtNombreAerolinea.Text;
+            objent.siglasAerolinea = txtSiglasAerolinea.Text;
+            objent.capacidadAerolinea = Convert.ToInt32(txtCapacidad.Text);
+            // Llamar al método N_Registrar_Aerolinea de la clase N_Aerolinea y asignar el resultado a la variable Registrar_Aerolinea
+            objent.accion = accion;
+            String Registrar_Aerolinea = objneg.N_Registrar_Aerolinea(objent);
+            MessageBox.Show(Registrar_Aerolinea, "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        void MostrarAerolinea()
+        {
+            // Se crea un nuevo DataTable y luego lo llena con los datos de las aerolineas
+            DataTable dt = new DataTable();
+           
+            dt = objneg.N_Listar_Aerolinea();
+            dgvAerolineas.DataSource = dt;
+
+        }
+
+
+        //Método para buscar aerolínea por el campo nombre.
         void BuscarAerolinea()
         {
+            if (cbBuscar.SelectedItem != null)
+            {
+                if (txtBuscarAeroli.Text != "")
+                {
+                    objent.nombreAerolinea = txtBuscarAeroli.Text;
+                    objent.siglasAerolinea = txtBuscarAeroli.Text;
+                    objent.valorBusqueda = cbBuscar.SelectedItem.ToString();
+                    // Se crea un nuevo DataTable y luego lo llena con los datos de las aerolineas
+                     DataTable dt = new DataTable();
+                    //txtBuscarAeroli
+                    dt = objneg.N_Buscar_Aerolineas(objent);
+                     dgvAerolineas.DataSource = dt;
+                }
+                else
+                {
+                    MessageBox.Show("Error, campo de búsqueda vacío");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Error, debe seleccionarse un parámetro de búsqueda");
+            }
 
-           
-                objent.nombreAerolinea = txtBuscarAeroli.Text;
-                // Se crea un nuevo DataTable y luego lo llena con los datos de las aerolineas
-                DataTable dt = new DataTable();
-                //txtBuscarAeroli
-                dt = objneg.N_Buscar_Aerolineas(objent);
-                dgvAerolineas.DataSource = dt;
+
 
         }
 
@@ -77,7 +136,7 @@ namespace C_Presentacion.FormulariosProyecto.Inventario
                 // Se llama al método RegistrarAreolinea con el valor "1" cuando se haga clic en el botón "Agregar aerolínea"
                 RegistrarAreolinea("1");
                 limpiar();
-                BuscarAerolinea();
+                MostrarAerolinea();
             }
 
 
@@ -92,14 +151,17 @@ namespace C_Presentacion.FormulariosProyecto.Inventario
             txtCodigoAerolinea.Text = dgvAerolineas[0, fila].Value.ToString();
             txtNombreAerolinea.Text = dgvAerolineas[1, fila].Value.ToString();
             txtSiglasAerolinea.Text = dgvAerolineas[2, fila].Value.ToString();
+            txtCapacidad.Text= dgvAerolineas[3, fila].Value.ToString();
 
         }
 
 	//Método para limpiar las cajas de texto al registrar las aerolíneas
         private void limpiar()
         {
+            txtCodigoAerolinea.Clear();
             txtNombreAerolinea.Clear();
             txtSiglasAerolinea.Clear();
+            txtCapacidad.Clear();
         }
 
 
@@ -126,9 +188,9 @@ namespace C_Presentacion.FormulariosProyecto.Inventario
         private void btnActualizarAerolinea_Click(object sender, EventArgs e)
         {
             // Llama al método ingresar con la acción "2" para actualizar los datos de la aerolinea
-            RegistrarAreolinea("2");
+            ActualizarAreolinea("2");
             limpiar();
-            BuscarAerolinea();
+            MostrarAerolinea();
         }
 
         private void seleccionarFilaToolStripMenuItem_Click(object sender, EventArgs e)
@@ -188,6 +250,28 @@ namespace C_Presentacion.FormulariosProyecto.Inventario
         private void txtBuscarAeroli_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void cbBuscar_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+            
+            switch (cbBuscar.SelectedItem.ToString())
+            {
+                case "Nombre":
+                    txtBuscarAeroli.Text = "";
+                    break;
+                case "Siglas":
+                    txtBuscarAeroli.Text = "";
+                    break;
+
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //Metodo  que carga los registros existentes en la tabla 
+            MostrarAerolinea();
         }
     }
     

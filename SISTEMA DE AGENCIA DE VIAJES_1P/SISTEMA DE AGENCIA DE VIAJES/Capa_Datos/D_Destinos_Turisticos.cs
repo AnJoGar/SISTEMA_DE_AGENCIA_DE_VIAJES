@@ -73,20 +73,24 @@ namespace Capa_Datos
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@destino", obje.destino);
+            cmd.Parameters.AddWithValue("@origen", obje.origen);
+            cmd.Parameters.AddWithValue("@tipoBusqueda", obje.valorBusqueda);
+
+          
             // Se crea un nuevo objeto SqlDataAdapter para ejecutar el comando y llenar un DataTable con los resultados
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
             da.Fill(dt);
             try
             {
-                OrigenNoEncontradoException.OrigenNoEncontrado(dt);
+                DestinoNoEncontradoException.OrigenNoEncontrado(dt);
             }
-            catch (OrigenNoEncontradoException ex) {
+            catch (DestinoNoEncontradoException ex)
+            {
 
-                throw new OrigenNoEncontradoException("Excepcion Personalizada" +ex.Message);
+                throw new DestinoNoEncontradoException("Excepcion Personalizada" + ex.Message);
 
             }
-            
             // Devuelve el DataTable con los datos
             return dt;
         }

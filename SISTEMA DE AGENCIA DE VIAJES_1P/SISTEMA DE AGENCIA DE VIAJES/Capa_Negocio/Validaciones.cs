@@ -69,7 +69,7 @@ namespace Capa_Negocio
         {
             if (string.IsNullOrWhiteSpace(input))
             {
-                ShowErrorMessage("Error, existen campos vacios");
+                ShowErrorMessage("Debe seleccionar una fila de la tabla antes de actualizar");
                 return false;
             }
             return true;
@@ -104,7 +104,7 @@ namespace Capa_Negocio
         public bool SoloLetras(string input, string fieldName, Action<string> ShowErrorMessage)
         {
             //Usa una expresión regular para verificar si la cadena contiene solo letras
-            if (!Regex.IsMatch(input, @"^[a-zA-Z]+$"))
+            if (!Regex.IsMatch(input, @"^[A-Za-zÁÉÍÓÚáéíóúñÑ ]+$"))
             {
                 ShowErrorMessage(fieldName + " debe contener solo letras.");
                 return false;
